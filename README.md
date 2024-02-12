@@ -32,32 +32,32 @@ Sehrish Khan   20I-0817
 ```
 4. Switch to dev branch
 ```
-    - git checkout dev
+- git checkout dev
 
 ```
 5. Project Scaffolding (Assuming Python Project)
 ```
-    - Create required project files and folders
+  - Create required project files and folders
 
 ```
 6. Commit Changes
 ```
-    - git add .
-    - git commit -m "Initialize project scaffolding"
+  - git add .
+  - git commit -m "Initialize project scaffolding"
 
 ```
 7. Merge Member Branches to Dev
 ```   
-    - git checkout dev
-    - git merge masters  #hk819  
-    - git merge test     #SehrishKhanSE2001
+   - git checkout dev
+   - git merge masters  #hk819  
+   - git merge test     #SehrishKhanSE2001
 
 ```
 8. Update README.md
 ```
-     - Edit the README.md file to include commands and outputs.
+   - Edit the README.md file to include commands and outputs.
 
 ```
 9. Push Changes to GitHub
 ``` 
-     - git push origin dev
+   - git push origin dev
