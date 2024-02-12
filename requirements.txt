@@ -1,0 +1,5 @@
+# Add our project dependencies here
+
+# For example:
+# requests==2.26.0
+# matplotlib==3.4.3
