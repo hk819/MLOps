@@ -7,7 +7,7 @@ Sehrish Khan   20I-0817
 1. Create a GitHub Repository
 ```
    - [Create a new repository on GitHub](https://github.com/new).
-   - Name: MLOpsproject-name
+   - Name: MLOps
    - Description: (Optional)
    - Visibility: Public
    - Initialize this repository with a README.
